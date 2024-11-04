@@ -1,0 +1,7 @@
+pdfplumber
+markdown2
+python-docx
+Pillow
+PyMuPDF
+pytesseract
+tqdm
